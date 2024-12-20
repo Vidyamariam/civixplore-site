@@ -2,6 +2,9 @@
 #dependencies
 /node_modules
 
+# Dist folder
+/dist
+
 #env files
 .env
 .env*
